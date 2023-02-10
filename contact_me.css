@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cont{
+    background-color: cyan;
+    display: flex;
+    padding: 30px ;
+}
+.conttext{
+    margin-left: 120px;
+    margin-top: 80px;
+    width: 50%;
+
+}
+body{
+    height: 100vh;
+    background: linear-gradient(111.34 ,);
+}
+ form{
+    display: flex;00
+    flex-direction: column;
+    width: 50%;
+ }
+
+ input {
+    margin: 10px%;
+    width: 80%;
+
+ }
+
+ input{
+    padding: 10px 15px;
+ }
+
+ .btn
+ {
+    width: 30%;
+    padding: 10px 15px;
+    background-color:aquamarine;
+    font-weight: bold;
+    border: none;
+ }
